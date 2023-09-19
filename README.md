@@ -1,3 +1,3 @@
 ## RTK Query example
 
-Following tutorial here: [tutorialhttps://code.pieces.app/blog/an-overview-of-redux-rtk-query]()
+Following tutorial here: [tutorial](https://code.pieces.app/blog/an-overview-of-redux-rtk-query)
